@@ -36,6 +36,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Twitter: https://x.com/allisea_c
 - Instagram: https://www.instagram.com/alliseac/
 - Itchio: https://allisea-castilla.itch.io
+- Juego: https://allisea-castilla.itch.io/visitante
 
 ![portada](https://photos.app.goo.gl/51Kt3PK5Cjeh7DXe8)
 
