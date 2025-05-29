@@ -53,6 +53,7 @@ Dos hermanos se mudan a una nueva casa luego de un incidente con sus padres y co
 
 ### 2.2. Esquema de navegación 
 
+![navegacion drawio](https://github.com/user-attachments/assets/e61915f8-8ab3-4c54-8db8-ee63e298db74)
 
 
 ![navegacion](https://photos.app.goo.gl/xgqdQhdBPbGMJ1AU8)
