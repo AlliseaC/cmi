@@ -1,6 +1,6 @@
-## (Nombre del proyecto)
+## Visitante
 
-Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
+Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Universidad de Granada.
 
 
 
@@ -8,38 +8,37 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo:** Visitante
 
-**Web:**   (url github.io)
+**Web:**  https://github.com/AlliseaC
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  José Antonio Maldonado Gómez
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen:**  Este proyecto busca contar la historia de dos hermanos, que luego de perder a sus padres en un accidente se mudan a una nueva casa, pero algo en las sombras estará detrás suya.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Novela visual/Terror/Suspense/Elecciones
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : ![logotipo](https://photos.app.goo.gl/dfyxgn2Ft3xUTeQX9)
 
-(insertar imágenes a resolucion de 100px alto)
+**Resolución:** 800x600px fijos
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Probado en:**  Google Chrome
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
-
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 30MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 29/05/2025
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios:** 
 
-- Github:
-- Twitter
-- Instagram
+- Github: https://github.com/AlliseaC
+- Twitter: https://x.com/allisea_c
+- Instagram: https://www.instagram.com/alliseac/
+- Itchio: https://allisea-castilla.itch.io
 
+![portada](https://photos.app.goo.gl/51Kt3PK5Cjeh7DXe8)
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
@@ -47,7 +46,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+Dos hermanos se mudan a una nueva casa luego de un incidente con sus padres y con un amigos de estos, se instalan. Pero en la primera noche, Alan, el hermano menor, se ve envuelto en un mundo extraño, en donde una criatura le estará haciendo la vida imposible.
 
 
 
@@ -55,8 +54,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
+![navegacion](https://photos.app.goo.gl/xgqdQhdBPbGMJ1AU8)
 
 
 
@@ -73,20 +71,19 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
+- La mayor inspiración del proyecto fue Faith: The Unholy Trinity, sobre todo su estética y ambientación.
+![faith](https://photos.app.goo.gl/rCzvoBPR1QKp7bfj6)
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este proyecto es interesante por como se puede llegar ver un trauma, que puede llegar a distorsionar la realidad.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a público adolescente y adulto.
 
 
 
@@ -96,24 +93,26 @@ Este  proyecto es interesante porque ...
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+-Juego: En cuanto a este, al inicio tenía otras ideas, como poder moverse por el mapa, pero al final esto lo cambié a solos diálogos por los problemas que me generaban lo anterior.
+
+-Video: Con los videos y animaciones simplemente los insertaba por nodos o código y que al acabar estos se siga a la siguiente escena.
+
+-Instrucciones y ayuda al usuario: Todas estas son mediante diálogos y elecciones, con las cuales vas a ir investigando la casa.
+
+-Menús y elementos de navegación: Estos son ilustraciones que he realizado o directamente palabras a las cuales les he dado la funcionalidad de los botones.
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Problemas identificados
+En cuanto a la historia, la parte final, ya que es muy apresurado y en cuanto a la programación, la galería, ya que el vídeo no funciona bien.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
+En general estoy bastante contento con el proyecto, sobre todo para haberlo hecho en tan poco tiempo. En cuanto cosas a mejorar, sobre todo me gustaría meter más animaciones y más fluidas, ya que esto le da bastante ambiente al juego y lo puede hacer más inmersivo y también me gustaría mejorar la historia, ya que siento que se ha quedado muy corta además de que no se explica del bien todo.
 
 
 
@@ -122,25 +121,26 @@ Este  proyecto es interesante porque ...
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
+**Artículos y blogs** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+- https://docs.godotengine.org/es/4.x/index.html
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+-Música: pixabay
+-Imágenes: pixabay
+-Tipografía: fontbase
+-Herramientas utilizadas
 
 **Herramientas utilizadas**
 
-- Hippani Animator 5.1
-- 
+-Godot 4.4.1
+-Libresprite
+-Clip Studio Paint
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2023
+Mayo 2025
