@@ -18,7 +18,10 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Novela visual/Terror/Suspense/Elecciones
 
-**Logotipo** : ![logotipo](https://photos.app.goo.gl/dfyxgn2Ft3xUTeQX9)
+**Logotipo** : 
+
+![logotipo](https://github.com/user-attachments/assets/503c44a7-c784-4f5e-bf66-b5e372fc022b)
+
 
 **Resolución:** 800x600px fijos
 
@@ -38,7 +41,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Itchio: https://allisea-castilla.itch.io
 - Juego: https://allisea-castilla.itch.io/visitante
 
-![portada](https://photos.app.goo.gl/51Kt3PK5Cjeh7DXe8)
+![logotipo_def](https://github.com/user-attachments/assets/8b801e98-de19-4de1-9466-e496ef538532)
+
 
 
 # 2. Memoria del proyecto 
@@ -53,10 +57,12 @@ Dos hermanos se mudan a una nueva casa luego de un incidente con sus padres y co
 
 ### 2.2. Esquema de navegación 
 
+
+
 ![navegacion drawio](https://github.com/user-attachments/assets/e61915f8-8ab3-4c54-8db8-ee63e298db74)
 
 
-![navegacion](https://photos.app.goo.gl/xgqdQhdBPbGMJ1AU8)
+
 
 
 
@@ -74,7 +80,8 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
 - La mayor inspiración del proyecto fue Faith: The Unholy Trinity, sobre todo su estética y ambientación.
-![faith](https://photos.app.goo.gl/rCzvoBPR1QKp7bfj6)
+
+![header](https://github.com/user-attachments/assets/b78af0cc-f8f8-4860-a8fd-294f323a6a9f)
 
 
 **Motivación de la propuesta** 
